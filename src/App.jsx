@@ -1,7 +1,7 @@
 import { useRef, useState } from "react"
 import axios from "axios"
 import SearchBar from "./components/SearchBar"
-import WeatherCard from "./components/weatherCard"
+import WeatherCard from "./WeatherCard"
 import video from "./video1.mp4"
 
 const App = () => {
